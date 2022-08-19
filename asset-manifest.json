@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rfmb-portfolio/static/css/main.e19dc2eb.css",
-    "main.js": "/rfmb-portfolio/static/js/main.bafd5141.js",
-    "static/media/FitnessApp.png": "/rfmb-portfolio/static/media/FitnessApp.7cc27a3117172aae4055.png",
-    "static/media/me-about.jpg": "/rfmb-portfolio/static/media/me-about.54b7865e105d0ef96867.jpg",
-    "static/media/me.png": "/rfmb-portfolio/static/media/me.f2fe21bbcbc098f803b2.png",
-    "static/media/GymApp.png": "/rfmb-portfolio/static/media/GymApp.94b79235442e67efacf1.png",
-    "index.html": "/rfmb-portfolio/index.html",
-    "main.e19dc2eb.css.map": "/rfmb-portfolio/static/css/main.e19dc2eb.css.map",
-    "main.bafd5141.js.map": "/rfmb-portfolio/static/js/main.bafd5141.js.map"
+    "main.css": "/static/css/main.e19dc2eb.css",
+    "main.js": "/static/js/main.9d2154eb.js",
+    "static/media/FitnessApp.png": "/static/media/FitnessApp.7cc27a3117172aae4055.png",
+    "static/media/me-about.jpg": "/static/media/me-about.54b7865e105d0ef96867.jpg",
+    "static/media/me.png": "/static/media/me.f2fe21bbcbc098f803b2.png",
+    "static/media/GymApp.png": "/static/media/GymApp.94b79235442e67efacf1.png",
+    "index.html": "/index.html",
+    "main.e19dc2eb.css.map": "/static/css/main.e19dc2eb.css.map",
+    "main.9d2154eb.js.map": "/static/js/main.9d2154eb.js.map"
   },
   "entrypoints": [
     "static/css/main.e19dc2eb.css",
-    "static/js/main.bafd5141.js"
+    "static/js/main.9d2154eb.js"
   ]
 }
