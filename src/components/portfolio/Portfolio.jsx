@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../assets/GymApp.png";
 import IMG2 from "../../assets/FitnessApp.png";
-import IMG2 from "../../assets/iwc.png";
+import IMG3 from "../../assets/iwc.png";
 
 const Portfolio = () => {
   return (
