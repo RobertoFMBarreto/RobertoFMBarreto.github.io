@@ -18,12 +18,25 @@ const Portfolio = () => {
                 <img src={IMG2} alt="" />
               </div>
               <h3>Fitness App</h3>
+              <p className="text-light">No available repositories</p>
             </article>
             <article className="portfolio__item">
               <div className="portfolio__item-image">
                 <img src={IMG1} alt="" />
               </div>
               <h3>Gym App</h3>
+              <p className="text-light">Repositories:</p>
+              <div className="portfolio__item-buttons">
+                <a href="" className="btn btn-primary" target="_blank">
+                  Gateway Api
+                </a>
+                <a href="" className="btn btn-primary" target="_blank">
+                  Api
+                </a>
+                <a href="" className="btn btn-primary" target="_blank">
+                  Webapp
+                </a>
+              </div>
             </article>
           </div>
         </div>
@@ -36,11 +49,12 @@ const Portfolio = () => {
               </div>
               <h3>I Want A Coach</h3>
               <div className="portfolio__item-buttons">
-                <a href="" className="btn" target="_blank">
+                <a
+                  href="https://github.com/IWantCoach"
+                  className="btn"
+                  target="_blank"
+                >
                   Github
-                </a>
-                <a href="" className="btn btn-primary" target="_blank">
-                  Live Demo
                 </a>
               </div>
             </article>
